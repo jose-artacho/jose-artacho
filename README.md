@@ -1,19 +1,11 @@
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=50&color=57383D&multiline=true&random=false&width=435&height=100&lines=Hello+I'm+Jose+Artacho.;+I'm+a+Native+Mobile+App+Developer." alt="Typing SVG" /></a>
-
+<div align="left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=50&color=57383D&multiline=true&repeat=false&random=false&width=435&height=100&lines=Hello+I'm+Jose+Artacho.;+I'm+a+Native+Mobile+App+Developer." alt="Typing SVG" /></a>
+</div>
+<div align="right">
 <img src="https://raw.githubusercontent.com/jose-artacho/jose-artacho/main/Assets/build_app.gif" width="60%">
 </div>
-<!--
-**jose-artacho/jose-artacho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me 👨‍💻
+Here an Industrial Engineer and Robotics Engineer who created an app to control a robot 🤖 with a tablet and decided to continue his career developing Apps.
+Coding for Android and iOS
+UX/UI APPassionate
